@@ -10,6 +10,8 @@
       <module name="Problems-Hello!_test" target="11" />
       <module name="Problems-Hello,_Java_main" target="11" />
       <module name="Problems-Hello,_Java_test" target="11" />
+      <module name="Problems-Invalid_declaration_of_variables_main" target="11" />
+      <module name="Problems-Invalid_declaration_of_variables_test" target="11" />
       <module name="Problems-The_Hello_World_program_main" target="11" />
       <module name="Problems-The_Hello_World_program_test" target="11" />
       <module name="Problems-The_result_of_a_Tic-Tac-Toe_game_main" target="11" />
