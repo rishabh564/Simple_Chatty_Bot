@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Assignments/Problems-Assignments.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Assignments/Problems-Assignments.iml" group="Simple_Chatty_Bot/Problems-Assignments" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Assignments/Problems-Assignments_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Assignments/Problems-Assignments_main.iml" group="Simple_Chatty_Bot/Problems-Assignments" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Assignments/Problems-Assignments_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Assignments/Problems-Assignments_test.iml" group="Simple_Chatty_Bot/Problems-Assignments" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cats are robots/Problems-Cats_are_robots.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cats are robots/Problems-Cats_are_robots.iml" group="Simple_Chatty_Bot/Problems-Cats_are_robots" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cats are robots/Problems-Cats_are_robots_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cats are robots/Problems-Cats_are_robots_main.iml" group="Simple_Chatty_Bot/Problems-Cats_are_robots" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cats are robots/Problems-Cats_are_robots_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cats are robots/Problems-Cats_are_robots_test.iml" group="Simple_Chatty_Bot/Problems-Cats_are_robots" />

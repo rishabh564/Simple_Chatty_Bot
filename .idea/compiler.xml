@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Problems-Assignments_main" target="11" />
+      <module name="Problems-Assignments_test" target="11" />
       <module name="Problems-Cats_are_robots_main" target="11" />
       <module name="Problems-Cats_are_robots_test" target="11" />
       <module name="Problems-From_0_to_4_main" target="11" />
