@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="Problems-Cats_are_robots_main" target="11" />
       <module name="Problems-Cats_are_robots_test" target="11" />
+      <module name="Problems-From_0_to_4_main" target="11" />
+      <module name="Problems-From_0_to_4_test" target="11" />
       <module name="Problems-Hello!_main" target="11" />
       <module name="Problems-Hello!_test" target="11" />
       <module name="Problems-Hello,_Java_main" target="11" />
