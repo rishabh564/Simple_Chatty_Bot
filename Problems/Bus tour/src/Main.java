@@ -23,6 +23,9 @@ public class Main {
 
         if (p == 0)
             System.out.println("Will not crash");
+        else
+            System.out.println("Will crash on bridge " + bridgecrashno);
+
 
     }
 }
