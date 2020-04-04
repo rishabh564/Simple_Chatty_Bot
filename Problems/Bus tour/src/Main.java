@@ -10,6 +10,8 @@ public class Main {
         for (int i = 0; i < bridgeno; i++)
             arr[i] = sc.nextInt();
 
+        int p = 0;
+        int bridgecrashno = 0;
 
     }
 }
