@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Arithmetic expression/Problems-Arithmetic_expression.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Arithmetic expression/Problems-Arithmetic_expression.iml" group="Simple_Chatty_Bot/Problems-Arithmetic_expression" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Arithmetic expression/Problems-Arithmetic_expression_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Arithmetic expression/Problems-Arithmetic_expression_main.iml" group="Simple_Chatty_Bot/Problems-Arithmetic_expression" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Arithmetic expression/Problems-Arithmetic_expression_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Arithmetic expression/Problems-Arithmetic_expression_test.iml" group="Simple_Chatty_Bot/Problems-Arithmetic_expression" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Assignments/Problems-Assignments.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Assignments/Problems-Assignments.iml" group="Simple_Chatty_Bot/Problems-Assignments" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Assignments (1)/Problems-Assignments__1_.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Assignments (1)/Problems-Assignments__1_.iml" group="Simple_Chatty_Bot/Problems-Assignments__1_" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Assignments (1)/Problems-Assignments__1__main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Assignments (1)/Problems-Assignments__1__main.iml" group="Simple_Chatty_Bot/Problems-Assignments__1_" />
