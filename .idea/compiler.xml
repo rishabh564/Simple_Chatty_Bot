@@ -26,6 +26,8 @@
       <module name="Problems-Javadoc_comment_test" target="11" />
       <module name="Problems-Print_strings_in_the_reverse_order_main" target="11" />
       <module name="Problems-Print_strings_in_the_reverse_order_test" target="11" />
+      <module name="Problems-Printing_each_word_in_a_new_line_main" target="11" />
+      <module name="Problems-Printing_each_word_in_a_new_line_test" target="11" />
       <module name="Problems-Printing_only_the_longest_line_main" target="11" />
       <module name="Problems-Printing_only_the_longest_line_test" target="11" />
       <module name="Problems-Printing_strings_in_the_same_order_main" target="11" />
