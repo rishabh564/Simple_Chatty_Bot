@@ -32,6 +32,8 @@
       <module name="Problems-Fill_the_declaration_test" target="11" />
       <module name="Problems-From_0_to_4_main" target="11" />
       <module name="Problems-From_0_to_4_test" target="11" />
+      <module name="Problems-Grades_main" target="11" />
+      <module name="Problems-Grades_test" target="11" />
       <module name="Problems-Guest_list_of_a_hotel_main" target="11" />
       <module name="Problems-Guest_list_of_a_hotel_test" target="11" />
       <module name="Problems-Hello!_main" target="11" />
