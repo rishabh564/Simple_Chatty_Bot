@@ -30,6 +30,8 @@
       <module name="Problems-Extracting_a_substring_test" target="11" />
       <module name="Problems-Fill_the_declaration_main" target="11" />
       <module name="Problems-Fill_the_declaration_test" target="11" />
+      <module name="Problems-Fizz_Buzz_main" target="11" />
+      <module name="Problems-Fizz_Buzz_test" target="11" />
       <module name="Problems-From_0_to_4_main" target="11" />
       <module name="Problems-From_0_to_4_test" target="11" />
       <module name="Problems-Grades_main" target="11" />
