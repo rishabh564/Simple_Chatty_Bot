@@ -13,6 +13,8 @@ class Main {
                 arr[2] += 1;
             else if (ar[i] == 3)
                 arr[3] += 1;
+            else if (ar[i] == 4)
+                arr[4] += 1;
         }
         }
 }
