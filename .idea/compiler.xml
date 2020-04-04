@@ -12,6 +12,10 @@
       <module name="Problems-Boys_in_a_sport_class_test" target="11" />
       <module name="Problems-Cats_are_robots_main" target="11" />
       <module name="Problems-Cats_are_robots_test" target="11" />
+      <module name="Problems-Check_a_number_is_positive_main" target="11" />
+      <module name="Problems-Check_a_number_is_positive_test" target="11" />
+      <module name="Problems-Chocolate_main" target="11" />
+      <module name="Problems-Chocolate_test" target="11" />
       <module name="Problems-Comparing_strings_ignoring_whitespaces_main" target="11" />
       <module name="Problems-Comparing_strings_ignoring_whitespaces_test" target="11" />
       <module name="Problems-Decrement_all_main" target="11" />
@@ -52,6 +56,8 @@
       <module name="Problems-Printing_only_the_longest_line_test" target="11" />
       <module name="Problems-Printing_strings_in_the_same_order_main" target="11" />
       <module name="Problems-Printing_strings_in_the_same_order_test" target="11" />
+      <module name="Problems-Queens_main" target="11" />
+      <module name="Problems-Queens_test" target="11" />
       <module name="Problems-Reading_integer_numbers_main" target="11" />
       <module name="Problems-Reading_integer_numbers_test" target="11" />
       <module name="Problems-Replacing_'a'_with_'b'_main" target="11" />
@@ -74,6 +80,8 @@
       <module name="Problems-The_result_of_a_Tic-Tac-Toe_game_test" target="11" />
       <module name="Problems-Three_numbers_main" target="11" />
       <module name="Problems-Three_numbers_test" target="11" />
+      <module name="Problems-Triangle_main" target="11" />
+      <module name="Problems-Triangle_test" target="11" />
       <module name="Problems-Uncomment_a_line_main" target="11" />
       <module name="Problems-Uncomment_a_line_test" target="11" />
       <module name="Simple_Chatty_Bot-task_main" target="11" />
