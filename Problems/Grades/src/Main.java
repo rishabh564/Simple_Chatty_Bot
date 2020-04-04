@@ -8,5 +8,6 @@ class Main {
         for (int i = 0; i < a; i++)
             ar[i] = sc.nextInt();
         int[] arr = new int[a];
-    }
+        for (int i = 0; i < a; i++) {
+        }
 }
