@@ -5,6 +5,7 @@ class Main {
         Scanner sc = new Scanner(System.in);
         long a = sc.nextInt();
         long b = sc.nextInt();
+        long res = 1;
 
 
     }
