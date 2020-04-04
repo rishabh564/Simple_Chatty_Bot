@@ -116,6 +116,8 @@
       <module name="Problems-Triangle_test" target="11" />
       <module name="Problems-Uncomment_a_line_main" target="11" />
       <module name="Problems-Uncomment_a_line_test" target="11" />
+      <module name="Problems-Vowel_or_not_main" target="11" />
+      <module name="Problems-Vowel_or_not_test" target="11" />
       <module name="Simple_Chatty_Bot-task_main" target="11" />
       <module name="Simple_Chatty_Bot-task_test" target="11" />
       <module name="util_main" target="11" />
