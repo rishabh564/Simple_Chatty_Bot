@@ -25,7 +25,5 @@ public class Main {
             System.out.println("Will not crash");
         else
             System.out.println("Will crash on bridge " + bridgecrashno);
-
-
     }
 }
