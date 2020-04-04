@@ -7,6 +7,9 @@ public class Main {
         int bridgeno = sc.nextInt();
         int[] arr = new int[bridgeno];
 
+        for (int i = 0; i < bridgeno; i++)
+            arr[i] = sc.nextInt();
+
 
     }
 }
