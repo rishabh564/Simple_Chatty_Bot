@@ -7,7 +7,11 @@ class Main {
             int n = sc.nextInt();
             if (n == 0) {
                 break;
-
             }
+            if (n % 2 == 0) {
+                System.out.println("even");
+            }
+
+        }
         }
     }
