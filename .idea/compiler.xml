@@ -15,6 +15,8 @@
       <module name="Problems-Hello!_main" target="11" />
       <module name="Problems-Hello!_test" target="11" />
       <module name="Problems-Hello,_Java_main" target="11" />
+      <module name="Problems-Hello,_Java_platform_main" target="11" />
+      <module name="Problems-Hello,_Java_platform_test" target="11" />
       <module name="Problems-Hello,_Java_test" target="11" />
       <module name="Problems-Invalid_declaration_of_variables_main" target="11" />
       <module name="Problems-Invalid_declaration_of_variables_test" target="11" />
