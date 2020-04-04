@@ -11,7 +11,9 @@ class Main {
             if (n % 2 == 0) {
                 System.out.println("even");
             }
-
+            if ((n % 2) != 0) {
+                System.out.println("odd");
+            }
         }
         }
     }
