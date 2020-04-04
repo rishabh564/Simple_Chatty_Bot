@@ -50,6 +50,8 @@
       <module name="Problems-Maximum_element_divisible_by_four_test" target="11" />
       <module name="Problems-Next_even_number_main" target="11" />
       <module name="Problems-Next_even_number_test" target="11" />
+      <module name="Problems-Numbers_divisible_by_six_main" target="11" />
+      <module name="Problems-Numbers_divisible_by_six_test" target="11" />
       <module name="Problems-Print_strings_in_the_reverse_order_main" target="11" />
       <module name="Problems-Print_strings_in_the_reverse_order_test" target="11" />
       <module name="Problems-Printing_each_word_in_a_new_line_main" target="11" />
