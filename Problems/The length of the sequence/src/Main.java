@@ -16,5 +16,8 @@ class Main {
                 c++;
             n++;
         }
+
+        if (c == 0)
+            System.out.println(0);
     }
 }
