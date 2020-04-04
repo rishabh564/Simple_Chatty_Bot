@@ -27,10 +27,16 @@ public class PersonalAssistantTest extends BaseStageTest<Clue> {
 
     @Override
     public List<TestCase<Clue>> generate() {
+        String input = "Marry\n1 0 5\n10";
+
+        for (int i = 1; i < 9; i++) {
+            input += "\n" + i;
+        }
+
         return List.of(
-            new TestCase<Clue>()
-                .setInput("Marry\n1 0 5\n10")
-                .setAttach(new Clue("Marry", 40, 10))
+                new TestCase<Clue>()
+                        .setInput(input)
+                        .setAttach(new Clue("Marry", 40, 10))
         );
     }
 
@@ -41,13 +47,13 @@ public class PersonalAssistantTest extends BaseStageTest<Clue> {
 
         int length = 9 + clue.count + 1;
 
-        if (lines.length != length) {
+        if (lines.length <= length) {
             return CheckResult.FALSE(
-                "You should output " + length + " lines " +
-                "(for the count number " + clue.count +").\n" +
-                "Lines found: " + lines.length + "\n" +
-                "Your output:\n" +
-                reply
+                    "You should output at least " + (length + 1) + " lines " +
+                            "(for the count number " + clue.count + ").\n" +
+                            "Lines found: " + lines.length + "\n" +
+                            "Your output:\n" +
+                            reply
             );
         }
 
@@ -81,12 +87,23 @@ public class PersonalAssistantTest extends BaseStageTest<Clue> {
 
             if (!numLine.equals(actualNum)) {
                 return CheckResult.FALSE(
-                    "Expected " + (i+8) + "-th line: \n" +
-                    "\"" + actualNum + "\"\n" +
-                    "Your "+ (i+8) + "-th line: \n" +
-                    "\"" + numLine + "\""
+                        "Expected " + (i + 8) + "-th line: \n" +
+                                "\"" + actualNum + "\"\n" +
+                                "Your " + (i + 8) + "-th line: \n" +
+                                "\"" + numLine + "\""
                 );
             }
+        }
+
+        String lastLine = lines[lines.length - 1];
+
+        if (!lastLine.equals("Congratulations, have a nice day!")) {
+            return CheckResult.FALSE(
+                    "Your last line should be:\n" +
+                            "\"Congratulations, have a nice day!\"\n" +
+                            "Found:\n" +
+                            "\"" + lastLine + "\""
+            );
         }
 
         return CheckResult.TRUE;

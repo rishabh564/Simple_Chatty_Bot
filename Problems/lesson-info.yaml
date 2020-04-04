@@ -24,3 +24,5 @@ content:
 - Decrement all
 - Replacing 'a' with 'b'
 - Extracting a substring
+- Comparing strings ignoring whitespaces
+- Boys in a sport class
