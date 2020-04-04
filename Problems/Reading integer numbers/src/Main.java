@@ -8,5 +8,9 @@ class Main {
         int b = sc.nextInt();
         int c = sc.nextInt();
         int d = sc.nextInt();
-
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
+        System.out.println(d);
+    }
     }
