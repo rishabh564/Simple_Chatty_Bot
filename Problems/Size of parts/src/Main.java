@@ -20,3 +20,6 @@ class Main {
                 c2++;
             }
         }
+        System.out.println(c + " " + c2 + " " + c1);
+    }
+}
