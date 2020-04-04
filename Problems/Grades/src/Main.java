@@ -7,7 +7,9 @@ class Main {
         int[] ar = new int[a];
         for (int i = 0; i < a; i++)
             ar[i] = sc.nextInt();
+
         int[] arr = new int[a];
+
         for (int i = 0; i < a; i++) {
             if (ar[i] == 2)
                 arr[2] += 1;
@@ -21,5 +23,8 @@ class Main {
                 continue;
         }
 
+        for (int i = 2; i < 6; i++) {
+            System.out.print(arr[i] + " ");
+        }
     }
 }
