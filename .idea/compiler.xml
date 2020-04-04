@@ -18,6 +18,8 @@
       <module name="Problems-Hello,_Java_platform_main" target="11" />
       <module name="Problems-Hello,_Java_platform_test" target="11" />
       <module name="Problems-Hello,_Java_test" target="11" />
+      <module name="Problems-Incorrect_comments_main" target="11" />
+      <module name="Problems-Incorrect_comments_test" target="11" />
       <module name="Problems-Invalid_declaration_of_variables_main" target="11" />
       <module name="Problems-Invalid_declaration_of_variables_test" target="11" />
       <module name="Problems-Javadoc_comment_main" target="11" />
