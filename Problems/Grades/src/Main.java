@@ -11,6 +11,8 @@ class Main {
         for (int i = 0; i < a; i++) {
             if (ar[i] == 2)
                 arr[2] += 1;
+            else if (ar[i] == 3)
+                arr[3] += 1;
         }
         }
 }
