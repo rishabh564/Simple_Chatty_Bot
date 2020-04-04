@@ -5,7 +5,7 @@ class Main {
         Scanner sc = new Scanner(System.in);
         float a = sc.nextInt();
         float b = sc.nextInt();
-
+        float[] arr = new float[100];
 
     }
 }
