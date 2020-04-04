@@ -18,6 +18,8 @@ class Main {
         for (int i = 0; i <= j; i++) {
             sum = arr[i] + sum;
         }
+        float result = sum / j;
+
     }
 }
 
