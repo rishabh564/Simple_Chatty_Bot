@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Arithmetic average/Problems-Arithmetic_average.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Arithmetic average/Problems-Arithmetic_average.iml" group="Simple_Chatty_Bot/Problems-Arithmetic_average" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Arithmetic average/Problems-Arithmetic_average_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Arithmetic average/Problems-Arithmetic_average_main.iml" group="Simple_Chatty_Bot/Problems-Arithmetic_average" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Arithmetic average/Problems-Arithmetic_average_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Arithmetic average/Problems-Arithmetic_average_test.iml" group="Simple_Chatty_Bot/Problems-Arithmetic_average" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Arithmetic expression/Problems-Arithmetic_expression.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Arithmetic expression/Problems-Arithmetic_expression.iml" group="Simple_Chatty_Bot/Problems-Arithmetic_expression" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Arithmetic expression/Problems-Arithmetic_expression_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Arithmetic expression/Problems-Arithmetic_expression_main.iml" group="Simple_Chatty_Bot/Problems-Arithmetic_expression" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Arithmetic expression/Problems-Arithmetic_expression_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Arithmetic expression/Problems-Arithmetic_expression_test.iml" group="Simple_Chatty_Bot/Problems-Arithmetic_expression" />
