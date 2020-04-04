@@ -42,6 +42,8 @@
       <module name="Problems-Reading_integer_numbers_test" target="11" />
       <module name="Problems-Snail_main" target="11" />
       <module name="Problems-Snail_test" target="11" />
+      <module name="Problems-Squirrels_and_nuts_main" target="11" />
+      <module name="Problems-Squirrels_and_nuts_test" target="11" />
       <module name="Problems-The_countdown_main" target="11" />
       <module name="Problems-The_countdown_test" target="11" />
       <module name="Problems-The_forgotten_comments_main" target="11" />
