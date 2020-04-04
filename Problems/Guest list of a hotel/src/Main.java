@@ -14,13 +14,13 @@ class Main {
         String s6 = sc.next();
         String s7 = sc.next();
         String s8 = sc.next();
-        System.out.println(s1);
-        System.out.println(s2);
-        System.out.println(s3);
-        System.out.println(s4);
-        System.out.println(s5);
-        System.out.println(s6);
-        System.out.println(s7);
         System.out.println(s8);
+        System.out.println(s7);
+        System.out.println(s6);
+        System.out.println(s5);
+        System.out.println(s4);
+        System.out.println(s3);
+        System.out.println(s2);
+        System.out.println(s1);
     }
 }
