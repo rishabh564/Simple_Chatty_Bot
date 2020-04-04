@@ -7,6 +7,6 @@ class Main {
         Scanner sc = new Scanner(System.in);
         int sq = sc.nextInt();
         int nuts = sc.nextInt();
-
+        System.out.println(nuts / sq);
     }
 }
