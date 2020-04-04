@@ -6,6 +6,9 @@ class Main {
         int a = sc.nextInt();
         int b = sc.nextInt();
         int mltp = 1;
+        for (int i = a; i < b; i++) {
+            mltp *= i;
+        }
 
     }
 }
