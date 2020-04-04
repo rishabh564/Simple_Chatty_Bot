@@ -19,5 +19,7 @@ class Main {
 
         if (c == 0)
             System.out.println(0);
+        else
+            System.out.println(n - 1);
     }
 }
