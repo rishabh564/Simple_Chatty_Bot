@@ -36,6 +36,8 @@
       <module name="Problems-Printing_only_the_longest_line_test" target="11" />
       <module name="Problems-Printing_strings_in_the_same_order_main" target="11" />
       <module name="Problems-Printing_strings_in_the_same_order_test" target="11" />
+      <module name="Problems-Reading_integer_numbers_main" target="11" />
+      <module name="Problems-Reading_integer_numbers_test" target="11" />
       <module name="Problems-The_countdown_main" target="11" />
       <module name="Problems-The_countdown_test" target="11" />
       <module name="Problems-The_forgotten_comments_main" target="11" />
