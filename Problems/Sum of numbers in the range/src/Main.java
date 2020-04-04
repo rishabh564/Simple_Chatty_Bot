@@ -11,6 +11,10 @@ public class Main {
      */
     public static long sumInRange(int from, int to) {
         // write your code here
+        long sum = 0;
+        for (int i = from; i < to; i++)
+            sum += i;
+        return sum;
     }
 
     /* Do not change code below */
