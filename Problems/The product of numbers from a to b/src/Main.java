@@ -6,6 +6,8 @@ class Main {
         long a = sc.nextInt();
         long b = sc.nextInt();
         long res = 1;
-
-
+        for (long i = a; i < b; i++)
+            res = res * i;
+        System.out.println(res);
     }
+}
