@@ -9,3 +9,6 @@ class Main {
         for (int i = 0; i < ar.length; i++) {
             ar[i] = sc.nextInt();
         }
+        int[] arr = new int[a];
+        int j = 0;
+
