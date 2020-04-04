@@ -5,6 +5,7 @@ class Main {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int[] ar = new int[a];
+
         for (int i = 0; i < ar.length; i++) {
             ar[i] = sc.nextInt();
         }
