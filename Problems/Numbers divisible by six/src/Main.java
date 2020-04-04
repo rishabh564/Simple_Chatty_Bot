@@ -23,3 +23,6 @@ class Main {
             sum = arr[i] + sum;
         }
         System.out.println(sum);
+    }
+}
+
