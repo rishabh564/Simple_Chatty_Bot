@@ -19,7 +19,7 @@ class Main {
             sum = arr[i] + sum;
         }
         float result = sum / j;
-
+        System.out.println(result);
     }
 }
 
