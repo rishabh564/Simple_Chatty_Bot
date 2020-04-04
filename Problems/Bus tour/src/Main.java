@@ -21,6 +21,8 @@ public class Main {
             }
         }
 
+        if (p == 0)
+            System.out.println("Will not crash");
 
     }
 }
