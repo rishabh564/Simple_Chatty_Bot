@@ -18,3 +18,8 @@ class Main {
                 j += 1;
             }
         }
+        int sum = 0;
+        for (int i = 0; i < j; i++) {
+            sum = arr[i] + sum;
+        }
+        System.out.println(sum);
