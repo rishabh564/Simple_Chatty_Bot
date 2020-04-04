@@ -15,5 +15,5 @@ class Main {
                 System.out.println("odd");
             }
         }
-        }
     }
+}
