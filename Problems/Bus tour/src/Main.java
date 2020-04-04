@@ -5,5 +5,8 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         int hbus = sc.nextInt();
         int bridgeno = sc.nextInt();
+        int[] arr = new int[bridgeno];
+
+
     }
 }
