@@ -13,5 +13,14 @@ public class Main {
         int p = 0;
         int bridgecrashno = 0;
 
+        for (int i = 0; i < arr.length; i++) {
+            if (hbus >= arr[i]) {
+                p = 1;
+                bridgecrashno = i + 1;
+                break;
+            }
+        }
+
+
     }
 }
