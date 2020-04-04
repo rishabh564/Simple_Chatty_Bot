@@ -20,6 +20,11 @@ class Main {
             }
         }
 
-
+        int max = arr[0];
+        for (int i = 0; i < j; i++) {
+            if (arr[i] > max)
+                max = arr[i];
+        }
+        System.out.println(max);
     }
 }
