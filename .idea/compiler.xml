@@ -18,6 +18,8 @@
       <module name="Problems-Check_a_number_is_positive_test" target="11" />
       <module name="Problems-Chocolate_main" target="11" />
       <module name="Problems-Chocolate_test" target="11" />
+      <module name="Problems-Collatz_conjecture_main" target="11" />
+      <module name="Problems-Collatz_conjecture_test" target="11" />
       <module name="Problems-Comparing_strings_ignoring_whitespaces_main" target="11" />
       <module name="Problems-Comparing_strings_ignoring_whitespaces_test" target="11" />
       <module name="Problems-Decrement_all_main" target="11" />
@@ -26,6 +28,8 @@
       <module name="Problems-Desks_test" target="11" />
       <module name="Problems-Difference_of_times_main" target="11" />
       <module name="Problems-Difference_of_times_test" target="11" />
+      <module name="Problems-Even_or_odd_main" target="11" />
+      <module name="Problems-Even_or_odd_test" target="11" />
       <module name="Problems-Extracting_a_substring_main" target="11" />
       <module name="Problems-Extracting_a_substring_test" target="11" />
       <module name="Problems-Fill_the_declaration_main" target="11" />
