@@ -9,5 +9,8 @@ class Main {
             ar[i] = sc.nextInt();
         int[] arr = new int[a];
         for (int i = 0; i < a; i++) {
+            if (ar[i] == 2)
+                arr[2] += 1;
+        }
         }
 }
