@@ -7,6 +7,11 @@ class Main {
         int a = scanner.nextInt();
         int temp = 0;
         int reverse = 0;
-
+        while (a > 0) {
+            temp = a % 10;
+            reverse = reverse * 10 + temp;
+            a = a / 10;
+        }
+        System.out.println(reverse);
     }
 }
