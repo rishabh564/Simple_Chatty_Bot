@@ -24,6 +24,8 @@
       <module name="Problems-Invalid_declaration_of_variables_test" target="11" />
       <module name="Problems-Javadoc_comment_main" target="11" />
       <module name="Problems-Javadoc_comment_test" target="11" />
+      <module name="Problems-Printing_only_the_longest_line_main" target="11" />
+      <module name="Problems-Printing_only_the_longest_line_test" target="11" />
       <module name="Problems-The_countdown_main" target="11" />
       <module name="Problems-The_countdown_test" target="11" />
       <module name="Problems-The_forgotten_comments_main" target="11" />
