@@ -40,6 +40,8 @@
       <module name="Problems-Printing_strings_in_the_same_order_test" target="11" />
       <module name="Problems-Reading_integer_numbers_main" target="11" />
       <module name="Problems-Reading_integer_numbers_test" target="11" />
+      <module name="Problems-Reversing_main" target="11" />
+      <module name="Problems-Reversing_test" target="11" />
       <module name="Problems-Snail_main" target="11" />
       <module name="Problems-Snail_test" target="11" />
       <module name="Problems-Squirrels_and_nuts_main" target="11" />
