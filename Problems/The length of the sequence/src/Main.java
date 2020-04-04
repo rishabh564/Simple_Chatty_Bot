@@ -6,6 +6,15 @@ class Main {
         Scanner sc = new Scanner(System.in);
         int n = 0;
         int c = 0;
-
+        while (true) {
+            int a = sc.nextInt();
+            if (a == 0) {
+                n++;
+                break;
+            }
+            if (c == 0)
+                c++;
+            n++;
+        }
     }
 }
