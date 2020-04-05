@@ -15,5 +15,8 @@ public static int getNumberOfMaxParam(int a,int b,int c){
         else if(c>b&&b>a)
         return 3;
 
+        else if(a==b&&b>c)
+        return 1;
+
 
         }
