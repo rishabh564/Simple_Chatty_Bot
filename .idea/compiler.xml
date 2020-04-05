@@ -108,6 +108,8 @@
       <module name="Problems-The_forgotten_comments_test" target="11" />
       <module name="Problems-The_Hello_World_program_main" target="11" />
       <module name="Problems-The_Hello_World_program_test" target="11" />
+      <module name="Problems-The_largest_element_of_a_sequence_main" target="11" />
+      <module name="Problems-The_largest_element_of_a_sequence_test" target="11" />
       <module name="Problems-The_length_of_the_sequence_main" target="11" />
       <module name="Problems-The_length_of_the_sequence_test" target="11" />
       <module name="Problems-The_number_of_tens_main" target="11" />
@@ -120,6 +122,8 @@
       <module name="Problems-The_roots_of_an_equation_test" target="11" />
       <module name="Problems-The_sequence_main" target="11" />
       <module name="Problems-The_sequence_test" target="11" />
+      <module name="Problems-The_smallest_value_main" target="11" />
+      <module name="Problems-The_smallest_value_test" target="11" />
       <module name="Problems-The_sum_of_elements_main" target="11" />
       <module name="Problems-The_sum_of_elements_test" target="11" />
       <module name="Problems-The_sum_of_integers_from_a_to_b_main" target="11" />
