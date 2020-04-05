@@ -12,6 +12,7 @@ public class Main {
             arr[j] = words[i];
             j++;
         }
+        return arr;
     }
 
     /* Do not change code below */
