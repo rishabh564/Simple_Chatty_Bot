@@ -24,5 +24,6 @@ class Main {
             if (arr[i] > max)
                 max = arr[i];
         }
+        System.out.println(max);
     }
 }
