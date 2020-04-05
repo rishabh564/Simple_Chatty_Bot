@@ -8,7 +8,10 @@ public class Main {
 
         String[] arr = new String[words.length];
         int j = 0;
-
+        for (int i = words.length - 1; i >= 0; i--) {
+            arr[j] = words[i];
+            j++;
+        }
     }
 
     /* Do not change code below */
