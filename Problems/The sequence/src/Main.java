@@ -19,5 +19,6 @@ class Main {
                 j += 1;
             }
         }
+        int max = arr[0];
     }
 }
