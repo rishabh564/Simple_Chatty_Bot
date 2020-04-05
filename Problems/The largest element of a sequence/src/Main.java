@@ -16,6 +16,6 @@ class Main {
             arr.add(a);
         }
         Collections.sort(arr, Collections.reverseOrder());
-
+        System.out.println(arr.get(0));
     }
 }
