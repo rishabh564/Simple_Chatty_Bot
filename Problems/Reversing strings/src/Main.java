@@ -6,6 +6,9 @@ public class Main {
     public static String[] reverse(String[] words) {
         // write your code here
 
+        String[] arr = new String[words.length];
+        int j = 0;
+
     }
 
     /* Do not change code below */
