@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Scanner;
 
 class Main {
@@ -14,6 +15,7 @@ class Main {
                 break;
             arr.add(a);
         }
+        Collections.sort(arr, Collections.reverseOrder());
 
     }
 }
