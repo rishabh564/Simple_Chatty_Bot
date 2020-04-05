@@ -6,16 +6,9 @@ class Main {
         int n1 = sc.nextInt();
         int n2 = sc.nextInt();
         int n3 = sc.nextInt();
-        int a = n1 + n2;
-        int b = n2 + n3;
-        int c = n3 + n1;
-        if (a > n3)
-            System.out.println("YES");
-        else if (b > n1)
-            System.out.println("YES");
-        else if (c > n2)
-            System.out.println("YES");
-        else
+        if ((n1 + n2 <= n3) || (n1 + n3 <= n2) || (n2 + n3 <= n1))
             System.out.println("NO");
+        else
+            System.out.println("YES");
     }
 }
