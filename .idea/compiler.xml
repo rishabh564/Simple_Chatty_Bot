@@ -30,6 +30,8 @@
       <module name="Problems-Desks_test" target="11" />
       <module name="Problems-Difference_of_times_main" target="11" />
       <module name="Problems-Difference_of_times_test" target="11" />
+      <module name="Problems-Division_main" target="11" />
+      <module name="Problems-Division_test" target="11" />
       <module name="Problems-Even_or_odd_main" target="11" />
       <module name="Problems-Even_or_odd_test" target="11" />
       <module name="Problems-Extracting_a_substring_main" target="11" />
