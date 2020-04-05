@@ -12,6 +12,6 @@ class Main {
                 break;
             sum += a;
         }
-
+        System.out.println(sum);
     }
 }
