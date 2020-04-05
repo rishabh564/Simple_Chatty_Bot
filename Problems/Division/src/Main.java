@@ -4,7 +4,8 @@ public class Main {
 
     public static double divide(long a, long b) {
         // write your code here
-
+        double d = (double) a / b;
+        return d;
     }
 
     /* Do not change code below */
