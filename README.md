@@ -1,7 +1,5 @@
 # Building a Simple_Chatty_Bot in JAVA (Hyperskill Project)
 
-![Alt text](https://cdn-images-1.medium.com/max/800/1*pPcVfZ7i-gLMabUol3zezA.gif)
-
 # What are Chatbots?
 * A chatbot is a communication interface  that chats with the individuals and inform you on everything that you need to know.
 
