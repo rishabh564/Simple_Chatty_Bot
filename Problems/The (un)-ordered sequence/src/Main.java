@@ -3,7 +3,7 @@ import java.util.Scanner;
 class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int[] arr = new int[4000];
+        int[] arr = new int[Integer.MAX_VALUE];
         int i = 0;
         while (sc.hasNextInt()) {
             arr[i] = sc.nextInt();
@@ -31,3 +31,14 @@ class Main {
 
     }
 }
+
+
+
+
+
+
+
+
+
+
+

@@ -10,7 +10,7 @@ public class SimpleBot {
         remindName();
         guessAge();
         count();
-        test();
+        // ...
         end();
     }
 
@@ -45,17 +45,7 @@ public class SimpleBot {
 
     static void test() {
         System.out.println("Let's test your programming knowledge.");
-        System.out.println("Why do we use methods?\n" +
-                "1. To repeat a statement multiple times.\n" +
-                "2. To decompose a program into several small subroutines.\n" +
-                "3. To determine the execution time of a program.\n" +
-                "4. To interrupt the execution of a program.\n");
-        int ans = 2;
-        int guess = scanner.nextInt();
-        while (ans != guess) {
-            System.out.println("Please, try again.");
-            guess = scanner.nextInt();
-        }
+        // write your code here
     }
 
     static void end() {
